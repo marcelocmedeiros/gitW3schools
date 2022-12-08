@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub
 
 it's more an includes for GitHub
+
+it's more an includes for VScode
